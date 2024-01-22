@@ -9,28 +9,28 @@ This document outlines key networking concepts for better understanding and refe
 
 - cloud and uses
 
--Database,different database
+- Database,different database
 
--HTTP Methods
+- HTTP Methods
 
--HTTP Headers
+- HTTP Headers
 
--HTTP Status code
+- HTTP Status code
 
--Monolith system
+- Monolith system
 
--Microservices system
+- Microservices system
 
--API Gateway
+- API Gateway
 
--Proxy,forward proxy,reverse proxy
+- Proxy,forward proxy,reverse proxy
 
--session,token,cookie,password
+- session,token,cookie,password
 
--Auth and explore outh
+- Auth and explore outh
 
--Authentication 
+- Authentication 
 
--HTTP Protocol
+- HTTP Protocol
 
   
