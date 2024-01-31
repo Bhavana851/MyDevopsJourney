@@ -21,7 +21,7 @@ Key characteristics of a monolithic system include:
 
 In a microservices architecture, an API gateway acts as a single entry point for client requests. The API gateway is responsible for request routing, composition, and protocol translation. It also provides additional features like authentication, authorization, caching, and rate limiting.
 
-![A P I](API.png)
+![A P I](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32e2cbef-4711-48e8-8730-4cf7915485b7_1600x1176.png)
 
 
 ## * Proxy 
