@@ -5,7 +5,7 @@ The **OSI (Open Systems Interconnection) model** is a conceptual framework used 
 
 **Here's an overview of each layer in the OSI model:**
 
-![8c53f73a c6ec 45cc afb5 4018ac97a488_1600x1085](8c53f73a-c6ec-45cc-afb5-4018ac97a488_1600x1085.png)
+![OSI Model](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c53f73a-c6ec-45cc-afb5-4018ac97a488_1600x1085.png)
 
 1) **Application Layer (Layer 7):**
 
