@@ -29,6 +29,8 @@ A database is a structured collection of data that is organized and stored elect
 
 **6)Document Stores**
 
+![Data Base](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88ce693e-15bf-47a6-9d0b-0a17efafbb34_1280x1670.jpeg)
+
 ## Basics of SQL
 
 SQL stands for Structured Query Language.It's a domain-specific language used in programming and designed for managing and querying data held in relational database management systems (RDBMS).
