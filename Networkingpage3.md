@@ -15,7 +15,7 @@ Key characteristics of a monolithic system include:
 * The microservice architectural style is an approach to developing a single application as a suite of small services, each running in its own process and communicating with lightweight mechanisms, often an HTTP resource API. 
 * These services are built around business capabilities and independently deployable by fully automated deployment machinery. There is a bare minimum of centralized management of these services, which may be written in different programming languages and use different data storage technologies. 
 
-
+![Monolithic and Microservices](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65f6ee2e-9538-478f-b08d-0c388c325d7a_3058x2002.jpeg)
 
 ## * API Gateway 
 
