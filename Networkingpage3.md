@@ -87,7 +87,7 @@ Authorization is the process of granting or denying access to specific resources
 
 **Hypertext Transfer Protocol Secure (HTTPS)** is an extension of the Hypertext Transfer Protocol (HTTP.) HTTPS transmits encrypted data using Transport Layer Security (TLS.) If the data is hijacked online, all the hijacker gets is binary code.
 
-![8c53f73a c6ec 45cc afb5 4018ac97a488_1600x1085](8c53f73a-c6ec-45cc-afb5-4018ac97a488_1600x1085.png)
+![How does HTTP works](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0e18db0d-f511-4f85-bb58-388fce70d42e_2631x2103.png)
 
 How is the data encrypted and decrypted?
 
